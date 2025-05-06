@@ -54,12 +54,12 @@ SQL – for data extraction and structuring from a relational database.
  📂 Project Structure
 
 📁 E-Commerce-Sales-Dashboard
-│
-├── 📊 PowerBI_Dashboard.pbix        Power BI project file
-├── 📈 Excel_Data.xlsx               Raw and cleaned dataset
-├── 📄 SQL_Query.sql                 SQL queries for data extraction
-├── 📸 Screenshot_2025-05-02.png     Dashboard screenshot
-└── 📄 README.md                     Project documentation
+
+📊 PowerBI_Dashboard.pbix        Power BI project file
+📈 Excel_Data.xlsx               Raw and cleaned dataset
+📄 SQL_Query.sql                 SQL queries for data extraction
+📸 Screenshot_2025-05-02.png     Dashboard screenshot
+📄 README.md                     Project documentation
 
 
 
